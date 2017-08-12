@@ -1,0 +1,6 @@
+- To adding input parameters you need to add String in "date1" file in format "11.11.2011"
+and the the same date format in "date2" file
+- To run  program you need to select .java file
+and click on "Run" button on the header panel or via right click
+- Output message will be difference between dates
+

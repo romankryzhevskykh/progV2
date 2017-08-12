@@ -1,0 +1,4 @@
+- To adding input parameters you need to add String into "config" file like site "https://www.olx.ua/"
+- To run  program you need to select .java file
+and click on "Run" button on the header panel or via right click
+- All downloaded images will be saved in the "imgs" package into Task_12 package

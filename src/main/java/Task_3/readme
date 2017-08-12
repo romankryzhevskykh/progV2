@@ -1,0 +1,12 @@
+- To adding input parameters you need to add integers to config file in Task_3 package.
+- Integers should be displayed in column , like
+"
+1
+2
+3
+4
+5
+6"
+
+- To run  program you need to select .java file
+and click on "Run" button on the header panel or via right
